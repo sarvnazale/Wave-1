@@ -1,2 +1,2 @@
 from time import asctime 
-print(asctime())
+print("The current date and time is", asctime())
