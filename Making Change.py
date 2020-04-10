@@ -1,5 +1,5 @@
 #getting user input
-total_cent = int(input())
+total_cent = int(input("Total number of cents from the user is: "))
 
 #defining variables
 cents_per_toonie = 200
